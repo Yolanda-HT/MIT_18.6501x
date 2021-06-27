@@ -5,4 +5,5 @@
 ## Resources:
 - [MIT Open Courseware - Stats for Applications - 2016](https://ocw.mit.edu/courses/mathematics/18-650-statistics-for-applications-fall-2016/) <br>
 - [MIT Open Courseware - Stats for Applications - 2006](https://ocw.mit.edu/courses/mathematics/18-443-statistics-for-applications-fall-2006/) <br>
-- [Clutch - Tutoring Videos](https://www.clutchprep.com/mit/18-6501-fundamentals-of-statistics)
+- [MIT 18.6501 Clutch - Tutoring Videos](https://www.clutchprep.com/mit/18-6501-fundamentals-of-statistics)
+- [Online Book - Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/)
