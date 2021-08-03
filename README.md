@@ -9,3 +9,4 @@
 - [Online Book - Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/)
 - [Stat25101 - UMN](https://www.stat.umn.edu/geyer/f09/5101/notes/)
 - [Math Professor - James Jones](https://people.richland.edu/james/)
+- [QQ Plot Dissection Kit](https://seankross.com/2016/02/29/A-Q-Q-Plot-Dissection-Kit.html)
